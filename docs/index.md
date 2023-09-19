@@ -35,9 +35,31 @@
 
 *&lt;Introdução do projeto&gt;*
 
+<p>*O Pizza-Express é uma plataforma de de 40 lojas de fast-food e entrega em casa,com a problema de  negócio,perdeu 30% da renda.*</p>
+
+<p>*Detalhe da problema:*</p>
+
+<p>*O Pizza-Express anuncia a entrega em uma hora,no entanto,há outra plataforma que garante a entre de 30 minutos.*</p>
+
+<p>*Solução da problema:</p>
+
+<p>*Desenvolver uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las,a fim de garantir a entrega em menos de 30 minutos,para isso,há duas projetos-primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega e egundo é um sistema de software para suportar operações da fábrica de pizzas.*</p>
+
+
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
+<p>Requísito Funcional:</p>
+<p>Sistema de Pedido Online:</p>
+<ul>
+  <li>Os clientes devem poder criar contas e fazer login.</li>
+  <li>Deve ser possível navegar e selecionar pizzas do menu.</li>
+  <li>Os clientes devem poder personalizar suas pizzas com ingredientes específicos.</li>
+  <li>O sistema deve aceitar pedidos de entrega ou retirada na loja.</li>
+  <li>Deve haver um carrinho de compras para revisar e editar pedidos.</li>
+  <li>Os clientes devem receber confirmações de pedidos por e-mail ou mensagem de texto.</li>
 
+  
+</ul>
 # Diagrama de casos de uso
 
 *&lt;Diagrama para visualizar o comportamento dos atores&gt;*
