@@ -41,7 +41,7 @@
 
 *&lt;Introdução do projeto&gt;*
 
-# Análise de requisitos funcionais e não-funcionais(sb)
+# Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
 
 # Diagrama de casos de uso
