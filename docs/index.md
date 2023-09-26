@@ -27,7 +27,7 @@
 
 # Autores
 
-* Daniel Chen
+* Daniel Chen 
 * Daniel Zou
 * Danilo Ye
 
@@ -49,32 +49,44 @@
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
 <p>Requísito Funcional:<b>Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza</b></p>
-<p>Sistema de Pedido Online:</p>
+<p><b>Sistema de Pedido Online:</b></p>
 <ul>
-  Os clientes devem ter a facilidade de criar contas e fazer login para garantir uma experiência personalizada e contínua.
-A navegação pelo menu e a seleção de pizzas devem ser intuitivas, permitindo que os clientes escolham suas opções de forma fluida.
-A personalização de pizzas com ingredientes específicos deve ser uma opção, atendendo às preferências individuais.
-Para dar flexibilidade aos clientes, o sistema deve permitir a escolha entre entrega ou retirada na loja.
-O carrinho de compras deve ser funcional, possibilitando revisar e editar pedidos conforme necessário.
-As confirmações de pedidos devem ser enviadas aos clientes por e-mail ou mensagem de texto para manter a transparência e assegurar que seus pedidos sejam registrados corretamente.
-Localização do Cliente:
+  <li>Os clientes devem ter a facilidade de criar contas e fazer login para garantir uma experiência personalizada e contínua.</li>
+  <li>A navegação pelo menu e a seleção de pizzas devem ser intuitivas, permitindo que os clientes escolham suas opções de forma fluida.</li>
+  <li>A personalização de pizzas com ingredientes específicos deve ser uma opção, atendendo às preferências individuais.</li>
+  <li>Para dar flexibilidade aos clientes, o sistema deve permitir a escolha entre entrega ou retirada na loja.</li>
+  <li>O carrinho de compras deve ser funcional, possibilitando revisar e editar pedidos conforme necessário.</li>
+  As confirmações de pedidos devem ser enviadas aos clientes por e-mail ou mensagem de texto para manter a transparência e assegurar que seus pedidos sejam         registrados corretamente.</li>
+  
+<p><b>Localização do Cliente:</b></p>
 
-Para simplificar a experiência do usuário, o sistema deve automaticamente identificar a localização do cliente usando geolocalização.
-A fábrica de pizza Pizza-Express mais próxima, com base na localização do cliente, deve ser exibida para tornar o processo de pedido mais conveniente.
-Processamento de Pedidos:
+<ul>
+  <li>Para simplificar a experiência do usuário, o sistema deve automaticamente identificar a localização do cliente usando geolocalização.</li>
+  <li>A fábrica de pizza Pizza-Express mais próxima, com base na localização do cliente, deve ser exibida para tornar o processo de pedido mais conveniente.</li>
+</ul>
 
-Os pedidos devem ser encaminhados de forma automática e eficiente para a fábrica de pizza adequada, garantindo a entrega rápida.
-A capacidade de rastrear o status do pedido em tempo real deve estar disponível para que os clientes fiquem informados.
-Para oferecer flexibilidade aos clientes, deve ser possível cancelar pedidos antes da confirmação.
-Estimativa de Tempo de Entrega:
+<p><b>Processamento de Pedidos:</b></p>
 
-O sistema deve calcular e mostrar o tempo estimado de entrega com base na localização do cliente e na carga de pedidos da fábrica.
-Clientes devem ser atualizados sobre quaisquer atrasos significativos, mantendo a comunicação transparente.
-Integração de Pagamento:
+<ul>
+  <li>Os pedidos devem ser encaminhados de forma automática e eficiente para a fábrica de pizza adequada, garantindo a entrega rápida.</li>
+  <li>A capacidade de rastrear o status do pedido em tempo real deve estar disponível para que os clientes fiquem informados.</li>
+  <li>Para oferecer flexibilidade aos clientes, deve ser possível cancelar pedidos antes da confirmação.</li>
+</ul>
 
-Para simplificar o processo de pagamento, o sistema deve oferecer suporte a diferentes métodos, como cartão de crédito e PayPal.
-A segurança das transações financeiras deve ser garantida, protegendo as informações do cliente durante todo o processo.
 
+<p><b>Estimativa de Tempo de Entrega:</b></p>
+
+<ul>
+  <li>O sistema deve calcular e mostrar o tempo estimado de entrega com base na localização do cliente e na carga de pedidos da fábrica.</li>
+  <li>Clientes devem ser atualizados sobre quaisquer atrasos significativos, mantendo a comunicação transparente.</li>
+</ul>
+
+<p><b>Integração de Pagamento:</b></p>
+
+<ul>  
+  <li>Para simplificar o processo de pagamento, o sistema deve oferecer suporte a diferentes métodos, como cartão de crédito e PayPal.</li>
+  <li>A segurança das transações financeiras deve ser garantida, protegendo as informações do cliente durante todo o processo.</li>
+</ul>
   
 </ul>
 # Diagrama de casos de uso
