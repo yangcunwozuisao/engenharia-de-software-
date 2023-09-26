@@ -45,9 +45,9 @@
 
 
 # Análise de requisitos funcionais e não-funcionais
-Requisitos Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:
+<h2><b>Requisitos Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:</b></h2>
 <ul>
-<h2><b>Sistema de Pedido Online:</b></h2>
+Sistema de Pedido Online:
 
 <li>Contas de usuário.</li>
 <li>Seleção e personalização de pizzas.</li>
@@ -55,42 +55,49 @@ Requisitos Funcionais - Sistema de Atendimento de Pedidos e Localização de Fá
 <li>Carrinho de compras.</li>
 <li>Confirmações de pedidos.</li>
 
-Localização do Cliente:
+Localização do Cliente:</b>
 
 <li>Geolocalização automática.</li>
 <li>Exibição da fábrica de pizza mais próxima.</li>
 
-Processamento de Pedidos:
+Processamento de Pedidos:</b>
 
 <li>Roteamento automático.</li>
 <li>Rastreamento de pedidos.</li>
 <li>Cancelamento antes da confirmação.</li>
 
-Estimativa de Tempo de Entrega:
+Estimativa de Tempo de Entrega:</b>
 
 <li>Cálculo e exibição do tempo estimado.</li>
 <li>Atualizações sobre atrasos.</li>
 
-Integração de Pagamento:
+Integração de Pagamento:</b>
 
 <li>Suporte a diferentes métodos.</li>
 <li>Segurança nas transações.</li>
 
-Requisitos Não Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:
+<h2>Requisitos Não Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:</h2>
 
-Desempenho:
+Desempenho:</b>
+<ul>
+  
+<li>Lidar com picos de tráfego.</li>
 
-Lidar com picos de tráfego.
-Segurança:
+Segurança:</b>
 
-Proteção de dados do cliente.
-Usabilidade:
+<li>Proteção de dados do cliente.</li>
 
-Interface intuitiva.
-Disponibilidade:
+Usabilidade:</b>
 
-24/7 com mínimo de inatividade.
-Requisitos Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:
+<li>Interface intuitiva.</li>
+
+Disponibilidade:</b>
+
+<li>24/7 com mínimo de inatividade.</li>
+
+</ul>
+
+<h2>Requisitos Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:</h2>
 
 Gerenciamento de Pedidos na Fábrica:
 
