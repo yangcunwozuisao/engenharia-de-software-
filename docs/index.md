@@ -57,7 +57,8 @@
   <li>Para dar flexibilidade aos clientes, o sistema deve permitir a escolha entre entrega ou retirada na loja.</li>
   <li>O carrinho de compras deve ser funcional, possibilitando revisar e editar pedidos conforme necessário.</li>
   As confirmações de pedidos devem ser enviadas aos clientes por e-mail ou mensagem de texto para manter a transparência e assegurar que seus pedidos sejam         registrados corretamente.</li>
-  
+</ul>
+
 <p><b>Localização do Cliente:</b></p>
 
 <ul>
