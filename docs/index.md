@@ -33,8 +33,6 @@
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
-
 <p>O Pizza-Express é uma plataforma de de 40 lojas de fast-food e entrega em casa,com a problema de  negócio,perdeu 30% da renda.</p>
 
 <p>Detalhe da problema:</p>
@@ -43,52 +41,89 @@
 
 <p>Solução da problema:</p>
 
-<p>* uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las,a fim de garantir a entrega em menos de 30 minutos,para isso,há duas projetos-primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega e egundo é um sistema de software para suportar operações da fábrica de pizzas.</p>
+<p>uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las,a fim de garantir a entrega em menos de 30 minutos,para isso,há duas projetos-primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega e egundo é um sistema de software para suportar operações da fábrica de pizzas.</p>
 
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
-<p>Requísito Funcional:<b>Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza</b></p>
-<p><b>Sistema de Pedido Online:</b></p>
+Requisitos Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:
 <ul>
-  <li>Os clientes devem ter a facilidade de criar contas e fazer login para garantir uma experiência personalizada e contínua.</li>
-  <li>A navegação pelo menu e a seleção de pizzas devem ser intuitivas, permitindo que os clientes escolham suas opções de forma fluida.</li>
-  <li>A personalização de pizzas com ingredientes específicos deve ser uma opção, atendendo às preferências individuais.</li>
-  <li>Para dar flexibilidade aos clientes, o sistema deve permitir a escolha entre entrega ou retirada na loja.</li>
-  <li>O carrinho de compras deve ser funcional, possibilitando revisar e editar pedidos conforme necessário.</li>
-  As confirmações de pedidos devem ser enviadas aos clientes por e-mail ou mensagem de texto para manter a transparência e assegurar que seus pedidos sejam         registrados corretamente.</li>
-</ul>
+<h2><b>Sistema de Pedido Online:</b></h2>
 
-<p><b>Localização do Cliente:</b></p>
+<li>Contas de usuário.</li>
+<li>Seleção e personalização de pizzas.</li>
+<li>Opção de entrega ou retirada.</li>
+<li>Carrinho de compras.</li>
+<li>Confirmações de pedidos.</li>
 
-<ul>
-  <li>Para simplificar a experiência do usuário, o sistema deve automaticamente identificar a localização do cliente usando geolocalização.</li>
-  <li>A fábrica de pizza Pizza-Express mais próxima, com base na localização do cliente, deve ser exibida para tornar o processo de pedido mais conveniente.</li>
-</ul>
+Localização do Cliente:
 
-<p><b>Processamento de Pedidos:</b></p>
+<li>Geolocalização automática.</li>
+<li>Exibição da fábrica de pizza mais próxima.</li>
 
-<ul>
-  <li>Os pedidos devem ser encaminhados de forma automática e eficiente para a fábrica de pizza adequada, garantindo a entrega rápida.</li>
-  <li>A capacidade de rastrear o status do pedido em tempo real deve estar disponível para que os clientes fiquem informados.</li>
-  <li>Para oferecer flexibilidade aos clientes, deve ser possível cancelar pedidos antes da confirmação.</li>
-</ul>
+Processamento de Pedidos:
 
+<li>Roteamento automático.</li>
+<li>Rastreamento de pedidos.</li>
+<li>Cancelamento antes da confirmação.</li>
 
-<p><b>Estimativa de Tempo de Entrega:</b></p>
+Estimativa de Tempo de Entrega:
 
-<ul>
-  <li>O sistema deve calcular e mostrar o tempo estimado de entrega com base na localização do cliente e na carga de pedidos da fábrica.</li>
-  <li>Clientes devem ser atualizados sobre quaisquer atrasos significativos, mantendo a comunicação transparente.</li>
-</ul>
+<li>Cálculo e exibição do tempo estimado.</li>
+<li>Atualizações sobre atrasos.</li>
 
-<p><b>Integração de Pagamento:</b></p>
+Integração de Pagamento:
 
-<ul>  
-  <li>Para simplificar o processo de pagamento, o sistema deve oferecer suporte a diferentes métodos, como cartão de crédito e PayPal.</li>
-  <li>A segurança das transações financeiras deve ser garantida, protegendo as informações do cliente durante todo o processo.</li>
-</ul>
-  
+<li>Suporte a diferentes métodos.</li>
+<li>Segurança nas transações.</li>
+
+Requisitos Não Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:
+
+Desempenho:
+
+Lidar com picos de tráfego.
+Segurança:
+
+Proteção de dados do cliente.
+Usabilidade:
+
+Interface intuitiva.
+Disponibilidade:
+
+24/7 com mínimo de inatividade.
+Requisitos Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:
+
+Gerenciamento de Pedidos na Fábrica:
+
+Visualização e aceitação/rejeição de pedidos.
+Priorização baseada na proximidade e hora.
+Produção Eficiente:
+
+Monitoramento de estoque.
+Programação de equipamentos.
+Roteirização de Entregas:
+
+Cálculo de rotas eficientes.
+Atualizações em tempo real para motoristas.
+Requisitos Não Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:
+
+Desempenho:
+
+Eficiência na preparação e entrega.
+Segurança:
+
+Proteção de dados e transações.
+Confiabilidade:
+
+Minimizar erros na preparação.
+Integração:
+
+Integração perfeita com o sistema de atendimento de pedidos.
+Escalabilidade:
+
+Lidar com aumento de pedidos.
+Manutenção:
+
+Fácil manutenção e atualização.
 </ul>
 # Diagrama de casos de uso
 
