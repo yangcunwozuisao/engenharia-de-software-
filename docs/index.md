@@ -45,78 +45,97 @@
 
 
 # Análise de requisitos funcionais e não-funcionais
-<h1>Requisitos Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza</h1>
+<h2>Requisitos Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:</h2>
 
-    <h2>Sistema de Pedido Online:</h2>
-    <ul>
-        <li>Contas de usuário</li>
-        <li>Seleção e personalização de pizzas</li>
-        <li>Opção de entrega ou retirada</li>
-        <li>Carrinho de compras</li>
-        <li>Confirmações de pedidos</li>
-    </ul>
+<h3>Sistema de Pedido Online:</h3>
 
-    <h2>Localização do Cliente:</h2>
-    <ul>
-        <li>Geolocalização automática</li>
-        <li>Exibição da fábrica de pizza mais próxima</li>
-    </ul>
+-Contas de usuário.
+-Seleção e personalização de pizzas.
+-Opção de entrega ou retirada.
+-Carrinho de compras.
+-Confirmações de pedidos.
 
-    <h1>Requisitos Não Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza</h1>
+<h3>Localização do Cliente:</h3>
 
-    <h2>Desempenho:</h2>
-    <ul>
-        <li>Lidar com picos de tráfego</li>
-    </ul>
+-Geolocalização automática.
+-Exibição da fábrica de pizza mais próxima.
 
-    <h2>Segurança:</h2>
-    <ul>
-        <li>Proteção de dados do cliente</li>
-    </ul>
+<h3>Processamento de Pedidos:</h3>
 
-    <h2>Usabilidade:</h2>
-    <ul>
-        <li>Interface intuitiva</li>
-    </ul>
+-Roteamento automático.
+-Rastreamento de pedidos.
+-Cancelamento antes da confirmação.
 
-    <h2>Disponibilidade:</h2>
-    <ul>
-        <li>24/7 com mínimo de inatividade</li>
-    </ul>
+<h3>Estimativa de Tempo de Entrega:</h3>
 
-    
-    <h1>Requisitos Não Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas</h1>
+-Cálculo e exibição do tempo estimado.
+-Atualizações sobre atrasos.
 
-    <h2>Desempenho:</h2>
-    <ul>
-        <li>Eficiência na preparação e entrega</li>
-    </ul>
+<h3>Integração de Pagamento:</h3>
 
-    <h2>Segurança:</h2>
-    <ul>
-        <li>Proteção de dados e transações</li>
-    </ul>
+-Suporte a diferentes métodos.
+-Segurança nas transações.
 
-    <h2>Confiabilidade:</h2>
-    <ul>
-        <li>Minimizar erros na preparação</li>
-    </ul>
+<h2>Requisitos Não Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:</h2>
 
-    <h2>Integração:</h2>
-    <ul>
-        <li>Integração perfeita com o sistema de atendimento de pedidos</li>
-    </ul>
+<h3>Desempenho:</h3>
 
-    <h2>Escalabilidade:</h2>
-    <ul>
-        <li>Lidar com aumento de pedidos</li>
-    </ul>
+-Lidar com picos de tráfego.
 
-    <h2>Manutenção:</h2>
-    <ul>
-        <li>Fácil manutenção e atualização</li>
-    </ul>
+<h3>Segurança:</h3>
 
+-Proteção de dados do cliente.
+
+<h3>Usabilidade:</h3>
+
+-Interface intuitiva.
+
+<h3>Disponibilidade:</h3>
+
+-24/7 com mínimo de inatividade.
+
+<h2>Requisitos Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:</h2>
+
+<h3>Gerenciamento de Pedidos na Fábrica:</h3>
+
+-Visualização e aceitação/rejeição de pedidos.
+-Priorização baseada na proximidade e hora.
+
+<h3>Produção Eficiente:</h3>
+
+-Monitoramento de estoque.
+-Programação de equipamentos.
+
+<h3>Roteirização de Entregas:</h3>
+
+-Cálculo de rotas eficientes.
+-Atualizações em tempo real para motoristas.
+
+<h2>Requisitos Não Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:</h2>
+
+<h3>Desempenho:</h3>
+
+-Eficiência na preparação e entrega.
+
+<h3>Segurança:</h3>
+
+-Proteção de dados e transações.
+
+<h3>Confiabilidade:</h3>
+
+-Minimizar erros na preparação.
+
+<h3>Integração:</h3>
+
+-Integração perfeita com o sistema de atendimento de pedidos.
+
+<h3>Escalabilidade:</h3>
+
+-Lidar com aumento de pedidos.
+
+<h3>Manutenção:</h3>
+
+-Fácil manutenção e atualização.
 
 # Diagrama de casos de uso
 
