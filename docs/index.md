@@ -35,28 +35,45 @@
 
 *&lt;Introdução do projeto&gt;*
 
-<p>*O Pizza-Express é uma plataforma de de 40 lojas de fast-food e entrega em casa,com a problema de  negócio,perdeu 30% da renda.*</p>
+<p>O Pizza-Express é uma plataforma de de 40 lojas de fast-food e entrega em casa,com a problema de  negócio,perdeu 30% da renda.</p>
 
-<p>*Detalhe da problema:*</p>
+<p>Detalhe da problema:</p>
 
-<p>*O Pizza-Express anuncia a entrega em uma hora,no entanto,há outra plataforma que garante a entre de 30 minutos.*</p>
+<p>O Pizza-Express anuncia a entrega em uma hora,no entanto,há outra plataforma que garante a entre de 30 minutos.</p>
 
-<p>*Solução da problema:</p>
+<p>Solução da problema:</p>
 
-<p>*Desenvolver uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las,a fim de garantir a entrega em menos de 30 minutos,para isso,há duas projetos-primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega e egundo é um sistema de software para suportar operações da fábrica de pizzas.*</p>
+<p>* uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las,a fim de garantir a entrega em menos de 30 minutos,para isso,há duas projetos-primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega e egundo é um sistema de software para suportar operações da fábrica de pizzas.</p>
 
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
-<p>Requísito Funcional:</p>
+<p>Requísito Funcional:<b>Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza</b></p>
 <p>Sistema de Pedido Online:</p>
 <ul>
-  <li>Os clientes devem poder criar contas e fazer login.</li>
-  <li>Deve ser possível navegar e selecionar pizzas do menu.</li>
-  <li>Os clientes devem poder personalizar suas pizzas com ingredientes específicos.</li>
-  <li>O sistema deve aceitar pedidos de entrega ou retirada na loja.</li>
-  <li>Deve haver um carrinho de compras para revisar e editar pedidos.</li>
-  <li>Os clientes devem receber confirmações de pedidos por e-mail ou mensagem de texto.</li>
+  Os clientes devem ter a facilidade de criar contas e fazer login para garantir uma experiência personalizada e contínua.
+A navegação pelo menu e a seleção de pizzas devem ser intuitivas, permitindo que os clientes escolham suas opções de forma fluida.
+A personalização de pizzas com ingredientes específicos deve ser uma opção, atendendo às preferências individuais.
+Para dar flexibilidade aos clientes, o sistema deve permitir a escolha entre entrega ou retirada na loja.
+O carrinho de compras deve ser funcional, possibilitando revisar e editar pedidos conforme necessário.
+As confirmações de pedidos devem ser enviadas aos clientes por e-mail ou mensagem de texto para manter a transparência e assegurar que seus pedidos sejam registrados corretamente.
+Localização do Cliente:
+
+Para simplificar a experiência do usuário, o sistema deve automaticamente identificar a localização do cliente usando geolocalização.
+A fábrica de pizza Pizza-Express mais próxima, com base na localização do cliente, deve ser exibida para tornar o processo de pedido mais conveniente.
+Processamento de Pedidos:
+
+Os pedidos devem ser encaminhados de forma automática e eficiente para a fábrica de pizza adequada, garantindo a entrega rápida.
+A capacidade de rastrear o status do pedido em tempo real deve estar disponível para que os clientes fiquem informados.
+Para oferecer flexibilidade aos clientes, deve ser possível cancelar pedidos antes da confirmação.
+Estimativa de Tempo de Entrega:
+
+O sistema deve calcular e mostrar o tempo estimado de entrega com base na localização do cliente e na carga de pedidos da fábrica.
+Clientes devem ser atualizados sobre quaisquer atrasos significativos, mantendo a comunicação transparente.
+Integração de Pagamento:
+
+Para simplificar o processo de pagamento, o sistema deve oferecer suporte a diferentes métodos, como cartão de crédito e PayPal.
+A segurança das transações financeiras deve ser garantida, protegendo as informações do cliente durante todo o processo.
 
   
 </ul>
