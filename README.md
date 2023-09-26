@@ -25,15 +25,15 @@ A seguir, os passos para a preparação do projeto:
 
 # Descrição
 
-<p>*O Pizza-Express é uma plataforma de de 40 lojas de fast-food e entrega em casa,com a problema de  negócio,perdeu 30% da renda.*</p>
+<p>O Pizza-Express é uma plataforma de de 40 lojas de fast-food e entrega em casa,com a problema de  negócio,perdeu 30% da renda.</p>
 
-<p>*Detalhe da problema:*</p>
+<p>Detalhe da problema:</p>
 
-<p>*O Pizza-Express anuncia a entrega em uma hora,no entanto,há outra plataforma que garante a entre de 30 minutos.*</p>
+<p>O Pizza-Express anuncia a entrega em uma hora,no entanto,há outra plataforma que garante a entre de 30 minutos.</p>
 
-<p>*Solução da problema:</p>
+<p>Solução da problema:</p>
 
-<p>*Desenvolver uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las,a fim de garantir a entrega em menos de 30 minutos,para isso,há duas projetos-primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega e egundo é um sistema de software para suportar operações da fábrica de pizzas.*</p>
+<p>Desenvolver uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las,a fim de garantir a entrega em menos de 30 minutos,para isso,há duas projetos-primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega e egundo é um sistema de software para suportar operações da fábrica de pizzas.</p>
 
 
 # Documentação
