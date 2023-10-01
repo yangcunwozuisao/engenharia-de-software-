@@ -12,7 +12,7 @@ Projeto UML
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
+- [Autores](#Autores)
 - [Descrição do projeto](#introdução-do-projeto)
 - [Análise de requisitos funcionais e não-fucionais](#descrição-dos-requisitos)
 - [Diagrama de casos de uso](#diagrama-de-comportamento-atores)
