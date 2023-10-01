@@ -1,4 +1,0 @@
-git add path/to/your/image.jpg
-git commit -m "Add image"
-git push origin master
-
