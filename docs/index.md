@@ -51,7 +51,7 @@ Projeto UML
 </head>
 <body>
 
-<h1>Requisitos Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:</h1>
+<h2>Requisitos Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:</h2>
 
 <h2>Sistema de Pedido Online:</h2>
 <ul>
@@ -87,7 +87,7 @@ Projeto UML
     <li>Segurança nas transações.</li>
 </ul>
 
-<h1>Requisitos Não Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:</h1>
+<h2>Requisitos Não Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:</h2>
 
 <h2>Desempenho:</h2>
 <ul>
@@ -109,7 +109,7 @@ Projeto UML
     <li>24/7 com mínimo de inatividade.</li>
 </ul>
 
-<h1>Requisitos Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:</h1>
+<h2>Requisitos Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:</h2>
 
 <h2>Gerenciamento de Pedidos na Fábrica:</h2>
 <ul>
@@ -129,7 +129,7 @@ Projeto UML
     <li>Atualizações em tempo real para motoristas.</li>
 </ul>
 
-<h1>Requisitos Não Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:</h1>
+<h2>Requisitos Não Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:</h2>
 
 <h2>Desempenho:</h2>
 <ul>
