@@ -48,7 +48,6 @@ Projeto UML
 <!DOCTYPE html>
 <html>
 <head>
-    Requisitos do Sistema de Pizza-Express
 </head>
 <body>
 
