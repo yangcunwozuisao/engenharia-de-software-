@@ -141,7 +141,7 @@ Projeto UML
 
 # Diagrama de casos de uso
 
-![diagrama de caso de uso 1](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/uml_engenharia%20de%20software.drawio.png)
+![diagrama de caso de uso 1](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/uml_engenharia%20de%20software.drawio%20(1).png)
 
 # Descrição dos casos de uso
 
