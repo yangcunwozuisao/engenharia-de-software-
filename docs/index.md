@@ -41,7 +41,7 @@ Projeto UML
 
 <p>Solução da problema:</p>
 
-<p>uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las,a fim de garantir a entrega em menos de 30 minutos,para isso,há duas projetos-primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega e egundo é um sistema de software para suportar operações da fábrica de pizzas.</p>
+<p>uma aplicação do software para identificar a localização de lojas de pizza Pizza-Express mais próxima do cliente e para criar o sistema de software necessário para operá-las,a fim de garantir a entrega em menos de 30 minutos,para isso,há duas projetos-primeiro é um sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega e segundo é um sistema de software para suportar operações da fábrica de pizzas.</p>
 
 
 # Análise de requisitos funcionais e não-funcionais
