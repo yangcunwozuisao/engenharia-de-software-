@@ -48,7 +48,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Requisitos do Sistema de Pizza-Express</title>
+    Requisitos do Sistema de Pizza-Express
 </head>
 <body>
 
