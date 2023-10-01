@@ -47,7 +47,7 @@ Projeto UML
 # Análise de requisitos funcionais e não-funcionais
 # Requisitos Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:
 
-__Sistema de Pedido Online:__
+## Sistema de Pedido Online:
 
 - Contas de usuário.
 - Seleção e personalização de pizzas.
@@ -55,107 +55,88 @@ __Sistema de Pedido Online:__
 - Carrinho de compras.
 - Confirmações de pedidos.
 
-__Localização do Cliente:__
-<ul>
-    <li>Geolocalização automática.</li>
-    <li>Exibição da fábrica de pizza mais próxima.</li>
-</ul>
+## Localização do Cliente:
 
-__Processamento de Pedidos:__
-<ul>
-    <li>Roteamento automático.</li>
-    <li>Rastreamento de pedidos.</li>
-    <li>Cancelamento antes da confirmação.</li>
-</ul>
+- Geolocalização automática.
+- Exibição da fábrica de pizza mais próxima.
 
-__Estimativa de Tempo de Entrega:__
-<ul>
-    <li>Cálculo e exibição do tempo estimado.</li>
-    <li>Atualizações sobre atrasos.</li>
-</ul>
+## Processamento de Pedidos:
 
-__Integração de Pagamento:__
-<ul>
-    <li>Suporte a diferentes métodos.</li>
-    <li>Segurança nas transações.</li>
-</ul>
+- Roteamento automático.
+- Rastreamento de pedidos.
+- Cancelamento antes da confirmação.
 
-<h2>Requisitos Não Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:</h2>
+## Estimativa de Tempo de Entrega:
 
-__Desempenho:__
-<ul>
-    <li>Lidar com picos de tráfego.</li>
-</ul>
+- Cálculo e exibição do tempo estimado.
+- Atualizações sobre atrasos.
 
-__Segurança:__
-<ul>
-    <li>Proteção de dados do cliente.</li>
-</ul>
+## Integração de Pagamento:
 
-__Usabilidade:__
-<ul>
-    <li>Interface intuitiva.</li>
-</ul>
+- Suporte a diferentes métodos.
+- Segurança nas transações.
 
-__Disponibilidade:__
-<ul>
-    <li>24/7 com mínimo de inatividade.</li>
-</ul>
+## Requisitos Não Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:
 
-<h2>Requisitos Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:</h2>
+### Desempenho:
 
-__Gerenciamento de Pedidos na Fábrica:__
-<ul>
-    <li>Visualização e aceitação/rejeição de pedidos.</li>
-    <li>Priorização baseada na proximidade e hora.</li>
-</ul>
+- Lidar com picos de tráfego.
 
-__Produção Eficiente:__
-<ul>
-    <li>Monitoramento de estoque.</li>
-    <li>Programação de equipamentos.</li>
-</ul>
+### Segurança:
 
-__Roteirização de Entregas:__
-<ul>
-    <li>Cálculo de rotas eficientes.</li>
-    <li>Atualizações em tempo real para motoristas.</li>
-</ul>
+- Proteção de dados do cliente.
 
-<h2>Requisitos Não Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:</h2>
+### Usabilidade:
 
-__Desempenho:__
-<ul>
-    <li>Eficiência na preparação e entrega.</li>
-</ul>
+- Interface intuitiva.
 
-__Segurança:__
-<ul>
-    <li>Proteção de dados e transações.</li>
-</ul>
+### Disponibilidade:
 
-__Confiabilidade:__
-<ul>
-    <li>Minimizar erros na preparação.</li>
-</ul>
+- 24/7 com mínimo de inatividade.
 
-__Integração:__
-<ul>
-    <li>Integração perfeita com o sistema de atendimento de pedidos.</li>
-</ul>
+## Requisitos Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:
 
-__Escalabilidade:__
-<ul>
-    <li>Lidar com aumento de pedidos.</li>
-</ul>
+### Gerenciamento de Pedidos na Fábrica:
 
-__Manutenção:__
-<ul>
-    <li>Fácil manutenção e atualização.</li>
-</ul>
+- Visualização e aceitação/rejeição de pedidos.
+- Priorização baseada na proximidade e hora.
 
-</body>
-</html>
+### Produção Eficiente:
+
+- Monitoramento de estoque.
+- Programação de equipamentos.
+
+### Roteirização de Entregas:
+
+- Cálculo de rotas eficientes.
+- Atualizações em tempo real para motoristas.
+
+## Requisitos Não Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:
+
+### Desempenho:
+
+- Eficiência na preparação e entrega.
+
+### Segurança:
+
+- Proteção de dados e transações.
+
+### Confiabilidade:
+
+- Minimizar erros na preparação.
+
+### Integração:
+
+- Integração perfeita com o sistema de atendimento de pedidos.
+
+### Escalabilidade:
+
+- Lidar com aumento de pedidos.
+
+### Manutenção:
+
+- Fácil manutenção e atualização.
+
 
 
 # Diagrama de casos de uso
