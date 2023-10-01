@@ -53,7 +53,7 @@ Projeto UML
 
 <h2>Requisitos Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:</h2>
 
-<h2>Sistema de Pedido Online:</h2>
+__Sistema de Pedido Online:__
 <ul>
     <li>Contas de usuário.</li>
     <li>Seleção e personalização de pizzas.</li>
@@ -62,26 +62,26 @@ Projeto UML
     <li>Confirmações de pedidos.</li>
 </ul>
 
-<h2>Localização do Cliente:</h2>
+__Localização do Cliente:__
 <ul>
     <li>Geolocalização automática.</li>
     <li>Exibição da fábrica de pizza mais próxima.</li>
 </ul>
 
-<h2>Processamento de Pedidos:</h2>
+__Processamento de Pedidos:__
 <ul>
     <li>Roteamento automático.</li>
     <li>Rastreamento de pedidos.</li>
     <li>Cancelamento antes da confirmação.</li>
 </ul>
 
-<h2>Estimativa de Tempo de Entrega:</h2>
+__Estimativa de Tempo de Entrega:__
 <ul>
     <li>Cálculo e exibição do tempo estimado.</li>
     <li>Atualizações sobre atrasos.</li>
 </ul>
 
-<h2>Integração de Pagamento:</h2>
+__Integração de Pagamento:__
 <ul>
     <li>Suporte a diferentes métodos.</li>
     <li>Segurança nas transações.</li>
@@ -89,41 +89,41 @@ Projeto UML
 
 <h2>Requisitos Não Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:</h2>
 
-<h2>Desempenho:</h2>
+__Desempenho:__
 <ul>
     <li>Lidar com picos de tráfego.</li>
 </ul>
 
-<h2>Segurança:</h2>
+__Segurança:__
 <ul>
     <li>Proteção de dados do cliente.</li>
 </ul>
 
-<h2>Usabilidade:</h2>
+__Usabilidade:__
 <ul>
     <li>Interface intuitiva.</li>
 </ul>
 
-<h2>Disponibilidade:</h2>
+__Disponibilidade:__
 <ul>
     <li>24/7 com mínimo de inatividade.</li>
 </ul>
 
 <h2>Requisitos Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:</h2>
 
-<h2>Gerenciamento de Pedidos na Fábrica:</h2>
+__Gerenciamento de Pedidos na Fábrica:__
 <ul>
     <li>Visualização e aceitação/rejeição de pedidos.</li>
     <li>Priorização baseada na proximidade e hora.</li>
 </ul>
 
-<h2>Produção Eficiente:</h2>
+__Produção Eficiente:__
 <ul>
     <li>Monitoramento de estoque.</li>
     <li>Programação de equipamentos.</li>
 </ul>
 
-<h2>Roteirização de Entregas:</h2>
+__Roteirização de Entregas:__
 <ul>
     <li>Cálculo de rotas eficientes.</li>
     <li>Atualizações em tempo real para motoristas.</li>
@@ -131,32 +131,32 @@ Projeto UML
 
 <h2>Requisitos Não Funcionais - Sistema de Suporte para Operações da Fábrica de Pizzas:</h2>
 
-<h2>Desempenho:</h2>
+__Desempenho:__
 <ul>
     <li>Eficiência na preparação e entrega.</li>
 </ul>
 
-<h2>Segurança:</h2>
+__Segurança:__
 <ul>
     <li>Proteção de dados e transações.</li>
 </ul>
 
-<h2>Confiabilidade:</h2>
+__Confiabilidade:__
 <ul>
     <li>Minimizar erros na preparação.</li>
 </ul>
 
-<h2>Integração:</h2>
+__Integração:__
 <ul>
     <li>Integração perfeita com o sistema de atendimento de pedidos.</li>
 </ul>
 
-<h2>Escalabilidade:</h2>
+__Escalabilidade:__
 <ul>
     <li>Lidar com aumento de pedidos.</li>
 </ul>
 
-<h2>Manutenção:</h2>
+__Manutenção:__
 <ul>
     <li>Fácil manutenção e atualização.</li>
 </ul>
