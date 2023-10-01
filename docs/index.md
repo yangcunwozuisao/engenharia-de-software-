@@ -17,7 +17,7 @@ Projeto UML
 - [Análise de requisitos funcionais e não-fucionais](#Análise-de-requisitos-funcionais-e-não-funcionais)
 - [Diagrama de casos de uso](#Diagrama-de-casos-de-uso)
 - [Descrição dos casos de uso](#escrição dos casos de uso)
-- [Diagrama de senquencia](#diagrama-de-ordem-interações)
+- [Diagrama de senquencia](#Diagrama-de-sequencia)
 - [Diagrama de classes](#diagrama-orientado-objetos)
 - [Diagrama de componentes](#diagrama-estrutura-componente)
 - [Decisões de arquitetura](#decisões-de-arquitetura)
@@ -145,6 +145,9 @@ Projeto UML
 
 # Descrição dos casos de uso
 
+
+# Diagrama de sequencia
+
 __Diagrama de sequência da Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:__
 
 ![diagrama de sequencia1](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/images/Diagrama%20de%20Sequ%C3%AAncia%20de%20atendimento.drawio.png)
@@ -152,11 +155,6 @@ __Diagrama de sequência da Sistema de Atendimento de Pedidos e Localização de
 __Diagrama de sequência da Sistema de Suporte para Operações da Fábrica de Pizzas:__
 
 ![diagrama de sequencia2](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/images/Diagrama%20de%20sequencia%20de%20operacao.drawio.png)
-
-
-# Diagrama de sequencia
-
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
 
 # Diagrama de classes
 
