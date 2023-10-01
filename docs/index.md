@@ -45,22 +45,15 @@ Projeto UML
 
 
 # Análise de requisitos funcionais e não-funcionais
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-
-<h2>Requisitos Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:</h2>
+# Requisitos Funcionais - Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:
 
 __Sistema de Pedido Online:__
-<ul>
-    <li>Contas de usuário.</li>
-    <li>Seleção e personalização de pizzas.</li>
-    <li>Opção de entrega ou retirada.</li>
-    <li>Carrinho de compras.</li>
-    <li>Confirmações de pedidos.</li>
-</ul>
+
+- Contas de usuário.
+- Seleção e personalização de pizzas.
+- Opção de entrega ou retirada.
+- Carrinho de compras.
+- Confirmações de pedidos.
 
 __Localização do Cliente:__
 <ul>
