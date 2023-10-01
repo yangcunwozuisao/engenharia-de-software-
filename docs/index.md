@@ -145,7 +145,14 @@ Projeto UML
 
 # Descrição dos casos de uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+__Diagrama de sequência da Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:__
+
+![diagrama de sequencia1](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/images/Diagrama%20de%20Sequ%C3%AAncia%20de%20atendimento.drawio.png)
+
+__Diagrama de sequência da Sistema de Suporte para Operações da Fábrica de Pizzas:__
+
+![diagrama de sequencia2](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/images/Diagrama%20de%20sequencia%20de%20operacao.drawio.png)
+
 
 # Diagrama de sequencia
 
