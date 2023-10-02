@@ -141,7 +141,13 @@ Projeto UML
 
 # Diagrama de casos de uso
 
+## Diagrama de casos de uso da Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza: ##
+
 ![diagrama de caso de uso 1](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/images/uml_engenharia%20de%20software.drawio%20(2).png)
+
+## Diagrama de casos de uso da Sistema de Suporte para Operações da Fábrica de Pizzas:
+
+![diagrama de caso de uso 2](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/images/Untitled%20Diagram.drawio.png)
 
 # Descrição dos casos de uso
 
