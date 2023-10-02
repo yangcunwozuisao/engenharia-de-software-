@@ -141,7 +141,7 @@ Projeto UML
 
 # Diagrama de casos de uso
 
-## Diagrama de casos de uso da Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza: ##
+## Diagrama de casos de uso da Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza: 
 
 ![diagrama de caso de uso 1](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/images/uml_engenharia%20de%20software.drawio%20(2).png)
 
@@ -149,8 +149,51 @@ Projeto UML
 
 ![diagrama de caso de uso 2](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/images/Untitled%20Diagram.drawio.png)
 
-# Descrição dos casos de uso
+# Descrição dos casos de uso 
 
+## descrição de casos de uso da Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza: 
+
+- O cliente opta por navegar no diretório do cardápio ou inserir as informações de pesquisa de alimentos a serem visualizadas.
+
+- O sistema processa a solicitação com sucesso e retorna à página correspondente do catálogo de refeições visualizada pelo cliente.
+
+- Os clientes verificam o nome, preço, foto, número de pedidos e outras informações do prato.
+
+- O cliente define a quantidade de compra do prato alvo, caso contrário a quantidade de compra padrão é
+
+- O cliente define o prazo de entrega do prato e o tempo padrão é de 1 hora.
+
+- O cliente coloca os pratos alvo definidos no carrinho de compras para garantir que quando o usuário confirmar o pedido, este
+
+- As refeições podem aparecer na lista de compras do usuário. 7. O cliente repete os passos 3 a 6 até que todos os pratos sejam adicionados ao carrinho de compras.
+
+- O cliente seleciona os pratos a serem apresentados no carrinho de compras. Clique no botão Enviar para gerar um pedido de envio.
+
+- O cliente verifica o destinatário, endereço de entrega, prazo de entrega, número de contato, valor do pagamento e outras informações exibidas no pedido enviado.
+
+- O cliente clica no botão de pagamento.
+
+- O cliente escolhe a forma de pagamento, pagamento online ou contra-reembolso.
+
+- O pagamento do cliente foi bem-sucedido.
+
+- O sistema finaliza a operação do pedido.
+
+## Descrição de casos de uso da Sistema de Suporte para Operações da Fábrica de Pizzas: 
+
+- O cliente faz o pedido pelo site ou aplicativo mobile, seleciona o tipo de pizza, quantidade, recheio, etc., e informa o endereço de entrega e forma de pagamento.
+- 
+- Após o sistema receber o pedido, ele verifica a validade do pedido e envia uma mensagem de confirmação ao cliente.
+- 
+- O sistema atribui o pedido à pizzaria mais próxima e avisa o atendente da loja e o entregador.
+- 
+- O atendente confecciona a pizza de acordo com o pedido e atualiza o status da produção no sistema.
+- 
+- O entregador retira a pizza na loja e atualiza o status da entrega no sistema.
+- 
+- O entregador entrega a pizza ao cliente e recebe o pagamento (se pagar em dinheiro) ou confirma o pagamento (se pagar online).
+- 
+- O entregador atualiza o status da entrega no sistema e retorna à loja.
 
 # Diagrama de sequencia
 
