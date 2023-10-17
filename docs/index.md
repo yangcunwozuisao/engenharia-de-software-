@@ -207,7 +207,13 @@ __Diagrama de sequência da Sistema de Suporte para Operações da Fábrica de P
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+__Diagrama de Classe de Domínio da Sistema de Atendimento de Pedidos e Localização de Fábricas de Pizza:__
+
+![diagrama de classe 1](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/images/calsse%20de%20dominio(engenharia%20de%20software).drawio.png)
+
+__Diagrama de Classe de Domínio da Sistema de Suporte para Operações da Fábrica de Pizzas:__
+
+![diagrama de classe 2](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/images/Diagrama%20sem%20nome.drawio.png)
 
 # Diagrama de Componentes
 
