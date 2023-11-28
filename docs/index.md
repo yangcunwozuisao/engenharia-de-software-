@@ -18,7 +18,7 @@ Projeto UML
 - [Diagrama de casos de uso](#Diagrama-de-casos-de-uso)
 - [Diagrama de senquencia](#Diagrama-de-sequencia)
 - [Diagrama de classes](#Diagrama-de-classes)
-- [Diagrama de componentes](#diagrama-estrutura-componente)
+- [Diagrama de componentes](#Diagrama-de-Componentes)
 - [Decisões de arquitetura](#decisões-de-arquitetura)
 - [Diagrama de implantação](#diagrama-de-hardware-software)
 - [Referências](#referências)
@@ -216,7 +216,7 @@ __Diagrama de Classe de Domínio da Sistema de Suporte para Operações da Fábr
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+![diagrama de componente](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/images/diagrama%20de%20componente.drawio.png)
 
 # Decisões de arquitetura
 
