@@ -16,7 +16,6 @@ Projeto UML
 - [Descrição do projeto](#Descrição-do-Projeto)
 - [Análise de requisitos funcionais e não-fucionais](#Análise-de-requisitos-funcionais-e-não-funcionais)
 - [Diagrama de casos de uso](#Diagrama-de-casos-de-uso)
-- [Descrição dos casos de uso](#escrição dos casos de uso)
 - [Diagrama de senquencia](#Diagrama-de-sequencia)
 - [Diagrama de classes](#diagrama-orientado-objetos)
 - [Diagrama de componentes](#diagrama-estrutura-componente)
