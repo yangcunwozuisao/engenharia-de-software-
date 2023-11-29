@@ -220,7 +220,8 @@ __Diagrama de Classe de Domínio da Sistema de Suporte para Operações da Fábr
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+Para a segurança da sistema,é necessário implementar uma abordagem abrangente de segurança para proteger sistemas e dados e garantir a confidencialidade dos dados durante a transferência,optando-se por utilizar protocolos de comunicação segura, como o HTTPS. 
+A autenticação robusta foi implementada para clientes, funcionários e entregadores, incluindo autenticação de dois fatores, a fim de controlar o acesso às funcionalidades do sistema e prevenir acessos não autorizados. Práticas de segurança foram aplicadas na aplicação web para proteger contra ataques comuns, como injeção SQL e cross-site scripting. Adicionalmente, a proteção de dados sensíveis do cliente foi priorizada, utilizando criptografia para informações de pagamento e dados pessoais. Ferramentas de monitoramento de segurança e sistemas de detecção de intrusões foram implementados para identificar e responder rapidamente a atividades suspeitas. Estratégias robustas de backup e recuperação de dados foram estabelecidas para garantir a disponibilidade dos dados em situações adversas. Um processo eficiente de aplicação regular de atualizações de segurança foi adotado para mitigar vulnerabilidades conhecidas, assegurando que o sistema esteja protegido contra ameaças emergentes. Testes regulares, incluindo testes de penetração, são realizados para identificar e corrigir potenciais vulnerabilidades, garantindo a contínua robustez da segurança do sistema ao longo do tempo. Essas decisões visam a criar uma arquitetura segura e resiliente para o Pizza-Express, salvaguardando a integridade e confiabilidade das operações e dados do sistema.
 
 # Diagrama de implantação
 
