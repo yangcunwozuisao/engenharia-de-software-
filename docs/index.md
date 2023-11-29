@@ -20,7 +20,7 @@ Projeto UML
 - [Diagrama de classes](#Diagrama-de-classes)
 - [Diagrama de componentes](#Diagrama-de-Componentes)
 - [Decisões de arquitetura](#decisões-de-arquitetura)
-- [Diagrama de implantação](#diagrama-de-hardware-software)
+- [Diagrama de implantação](#Diagrama-de-implantação)
 - [Referências](#referências)
 
 
@@ -225,7 +225,7 @@ A autenticação robusta foi implementada para clientes, funcionários e entrega
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![diagrama de implementacao](https://github.com/yangcunwozuisao/engenharia-de-software-/blob/master/images/diagrama%20implementacao.drawio.png)
 
 # Referências
 
